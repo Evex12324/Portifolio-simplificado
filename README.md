@@ -8,7 +8,7 @@ Obrigado por ver meu projeto!
 ## Descrição do projeto 😀
 Esse projeto aborda sobre o meu portifólio, feito com a ajuda do grupo do dev em dobro.
 
-![Demonstração do site Portifólio simplificado](./github/demonstracao-da-aplicacao.mp4)
+![Demonstração do site Portifólio simplificado](./github/demonstracao-da-aplicacao.gif)
 
 ## Tem algum feedback? 😁
 Adoro receber feedbacks! Estou sempre buscando melhorar meus projetos. Então, se você tiver algo que gostaria de mencionar, envie um e-mail para evex12324@gmail.com!
